@@ -13,5 +13,32 @@ print("I am",Age,"years old")
 print("I am",height,"cm tall")
 print("My hobbies are",hobby1,"and",hobby2)
 
+let friendName = "Ahmad"
+var friendHeight = 168
+var friendAge = 16
+var friendhobby1 = "gaming"
+var friendhobby2 = "football"
+var age_diffrence = Age - friendAge
+
+myName != friendName
+
+Age == friendAge
+Age >= friendAge
+Age <= friendAge
+
+height > friendHeight
+height >= friendHeight
+height <= friendHeight
+height != friendHeight
+
+hobby1 != friendhobby1
+hobby2 != friendhobby2
+
+
+
+
+
+
+
 
 
